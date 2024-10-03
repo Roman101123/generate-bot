@@ -5,8 +5,8 @@ import uuid
 import json
 import websockets
 
-token = '7623606602:AAGghZIkizTTJQHW0RFj0fzIcZxZVt9mCUY' # Ваш токен бота взятый из @BotFather
-runware_api = 'z1ilk4CqKMMMPSm3gynSdrsuoKsECcxK' # Тот самый ключик разработчиков для работы нейросети
+token = '' # Ваш токен бота взятый из @BotFather
+runware_api = 'z1ilk4CqKMMMPSm3gynSdrsuoKsECcxK' #  ключик 
 
 bot = Bot(token=token)
 dp = Dispatcher()
